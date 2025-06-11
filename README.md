@@ -6,8 +6,6 @@ Welcome to my collection of Kaggle competitions and machine learning projects! T
 
 Data Science enthusiast passionate about solving real-world problems through machine learning and statistical analysis. I enjoy exploring different datasets and building predictive models to uncover insights.
 
-**Kaggle Profile**: [Your Kaggle Profile Link]
-
 ## 📊 Quick Stats
 
 - **Total Projects**: 5+ (Growing)
@@ -145,41 +143,6 @@ Data Science enthusiast passionate about solving real-world problems through mac
 
 ---
 
-## 🚀 Upcoming Projects
-
-### Titanic Survival Prediction
-**Status**: 📋 Planned | **Type**: Binary Classification
-
-**Objective**: Predict survival on the Titanic based on passenger information
-
-**Planned Approach**:
-- Exploratory data analysis
-- Feature engineering (family size, titles, etc.)
-- Multiple classification algorithms comparison
-- Ensemble methods
-
-### Natural Language Processing Project
-**Status**: 📋 Planned | **Type**: NLP
-
-**Objective**: Text classification or sentiment analysis project
-
-**Planned Approach**:
-- Text preprocessing and tokenization
-- Feature extraction (TF-IDF, Word2Vec)
-- Deep learning for NLP (LSTM, Transformers)
-
-### Computer Vision Challenge
-**Status**: 📋 Planned | **Type**: Image Classification
-
-**Objective**: Image recognition using convolutional neural networks
-
-**Planned Approach**:
-- CNN architecture design
-- Transfer learning
-- Data augmentation techniques
-
----
-
 ## 🛠️ Technical Stack
 
 **Programming Languages**:
@@ -239,89 +202,8 @@ Data Science enthusiast passionate about solving real-world problems through mac
 - 📋 ROC curves and confusion matrices (For classification)
 - 📋 Learning curves analysis
 
----
 
-## 🎯 Competition Performance
 
-| Competition | Rank | Score | Participants | Percentile |
-|-------------|------|-------|--------------|------------|
-| House Prices | [Your Rank] | [Your Score] | [Total] | [Top X%] |
-| [Future Competitions] | - | - | - | - |
-
----
-
-## 📚 Learning Journey
-
-### Completed Courses & Certifications
-- [Add any relevant courses you've completed]
-- [Machine Learning certifications]
-- [Data Science bootcamps]
-
-### Key Learning Areas
-- **Statistics & Probability**: Hypothesis testing, distributions, correlation analysis
-- **Machine Learning**: Supervised learning, model evaluation, feature selection
-- **Data Visualization**: Creating insightful plots and dashboards
-- **Programming**: Python for data science, pandas proficiency
-
----
-
-## 🔮 Future Goals
-
-### Short-term (Next 3 months)
-- [ ] Complete Titanic competition
-- [ ] Participate in a computer vision competition
-- [ ] Implement advanced ensemble methods
-- [ ] Create comprehensive project documentation
-- [ ] Achieve top 25% ranking in a competition
-
-### Long-term (Next year)
-- [ ] Master deep learning architectures (CNN, RNN, Transformers)
-- [ ] Participate in featured competitions
-- [ ] Contribute to open-source data science projects
-- [ ] Build specialized expertise in cybersecurity ML
-- [ ] Create a portfolio of 15+ diverse projects
-- [ ] Publish research or technical articles
-
----
-
-## 📁 Repository Structure
-
-```
-kaggle_projects/
-├── 📁 house-price-prediction/
-│   ├── data/
-│   ├── notebooks/
-│   ├── src/
-│   └── README.md
-├── 📁 cyber-threat-analysis/
-│   ├── data/
-│   ├── notebooks/
-│   ├── models/
-│   └── README.md
-├── 📁 decision-tree/
-│   ├── implementations/
-│   ├── notebooks/
-│   ├── visualizations/
-│   └── README.md
-├── 📁 neural-network/
-│   ├── implementations/
-│   ├── notebooks/
-│   ├── models/
-│   └── README.md
-├── 📁 supervised-ml/
-│   ├── algorithms/
-│   ├── notebooks/
-│   ├── comparisons/
-│   └── README.md
-├── 📁 titanic-survival/          (Planned)
-├── 📁 nlp-project/               (Planned)
-├── 📁 utils/                     (Shared utilities)
-├── 📁 templates/                 (Project templates)
-├── requirements.txt
-└── README.md                     (This file)
-```
-
----
 
 ## 🤝 Connect with Me
 
