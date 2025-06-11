@@ -1,6 +1,6 @@
-# 🏆 Swaleha's Kaggle Projects Portfolio
+# 🏆 Swaleha's Project Portfolio
 
-Welcome to my collection of Kaggle competitions and machine learning projects! This repository showcases my journey in data science and competitive machine learning.
+Welcome to my collection of machine learning projects! This repository showcases my journey in data science and competitive machine learning.
 
 ## 👋 About Me
 
